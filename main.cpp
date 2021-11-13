@@ -2,7 +2,7 @@
 using namespace std;
 #include "instruction.h"
 
-int main(argc int, argv **char) {
+int main(int argc, char **argv) {
   int n=0;
   
   while(n <= 0 || n > 4)
